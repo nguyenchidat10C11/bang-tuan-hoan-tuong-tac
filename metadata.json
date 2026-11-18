@@ -1,0 +1,6 @@
+{
+  "name": "Bảng Tuần Hoàn Hóa Học 118 Nguyên Tố",
+  "description": "Ứng dụng tra cứu Bảng Tuần Hoàn Hóa Học 118 nguyên tố chuẩn IUPAC với cấu hình electron, mô hình nguyên tử Bohr, sơ đồ ô orbital theo quy tắc Hund và bộ lọc tương tác.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
